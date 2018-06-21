@@ -1,5 +1,7 @@
 # <a href="https://material.io/develop/android/">New Material</a>
-<b>What’s New: </b>The latest Material Components, tutorials, and documentation for Android.
+The latest Material Components, tutorials, and documentation for Android.
+
+<b>What’s New?</b>
 
 <b><a href="https://material.io/develop/android/components/material-button/">Material Button</a></b>
 
